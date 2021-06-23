@@ -1,3 +1,4 @@
+# ![Esta es una imagen de ejemplo](munich_banner.png)
 #  The Munich Project
 #### The new core for reemplace WDK 
 #
