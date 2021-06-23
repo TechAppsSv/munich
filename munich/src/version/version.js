@@ -1,10 +1,10 @@
 // The Munich Proyect
 
-var text = document.createTextNode("munich");                                    
-document.getElementById("codename").appendChild(text); 
-var text2 = document.createTextNode("Electron 13)");                                    
+
+
+var text2 = document.createTextNode("Electron 13.1.5 y Electron 12.0.9 (Solo MacOs)");                                    
 document.getElementById("electron-version").appendChild(text2); 
-var text3 = document.createTextNode("Munich: 1");                                    
+var text3 = document.createTextNode("1 Stable");                                    
 document.getElementById("munich-version").appendChild(text3); 
-var text5 = document.createTextNode(" Version: 1");                                    
+var text5 = document.createTextNode(" Your app version");                                    
 document.getElementById("version").appendChild(text5); 

@@ -13,7 +13,7 @@
   "dependencies": {
     "@cliqz/adblocker-electron": "^1.22.2",
     "cross-fetch": "^3.1.4",
-    "electron": "^13.1.2",
+    "electron": "^12.0.9",
     "electron-builder": "^22.11.7",
     "electron-context-menu": "^3.1.1",
     "electron-installer-dmg": "^3.0.0",
